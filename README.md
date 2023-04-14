@@ -4,6 +4,11 @@
 
 <img src="banner.png" width="100%">
 
+<h1 align="center"> SCREENSHOTS </h1>
+<img src="screenshot.png" width="100%">
+<img src="screenshot1.png" width="100%">
+<img src="screenshot2.png" width="100%">
+<img src="screenshot3.png" width="100%">
 
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-WifiV2.git
