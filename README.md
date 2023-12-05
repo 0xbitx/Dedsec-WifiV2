@@ -13,7 +13,7 @@
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-WifiV2.git
 * cd Dedsec-WifiV2
-* sudo python3 dedsec-wifi-v2.py
+* sudo ./dedsec-wifi-v2
 
 ### TESTED ON FOLLOWING:
 * Kali Linux
